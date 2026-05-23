@@ -75,8 +75,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**  
-GitHub: [@your-username](https://github.com/your-username)
+**VIVEK CHAUDHARY**  
+GitHub: [@vivekchauhan000](https://github.com/vivekchauhan000)
 
 ---
 
